@@ -1,0 +1,3 @@
+graft sportcard/static
+graft sportcard/templates
+global-exclude *.pyc 
